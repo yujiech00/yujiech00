@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👩‍💻 I am Yujie Chen, currently pursuing my master's degree <b>MSc in Applied Computing (MScAC) - Data Science Concentration at the University of Toronto</b>.<br><br>
+👩‍💻 I am Yujie Chen, currently pursuing my master's degree <b>MSc in Applied Computing (MScAC) - Data Science Concentration</b> at the <b>University of Toronto</b>.<br><br>
 🥰 I am passionate about <b>data science</b> driven by the power of data insights to deliver better decision-making for business. Along with that, I am also enthusiastic about <b>developing user-interactive web apps</b> as a tool for providing data visualization as well as results of data analysis and model prediction. <br><br>
 ✨ My skillset ranges from data preparation, cleaning, and visualization, to model building, evaluation, and forecasting, to web development.<br>
 
