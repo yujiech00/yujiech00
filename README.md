@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+👩‍💻 I am currently pursuing my master's degree MSc in Applied Computing (MScAC) - Data Science Concentration at the University of Toronto. 
+
+🥰 I am passionate about data science driven by the power of data insights to deliver better decision-making for business. Along with that, I am also passionate about developing user-interactive web apps as a tool for providing data visualization as well as results of data analysis and model prediction. My skillset ranges from data preparation, cleaning, and visualization, to model building, evaluation, and forecasting, to web development.
+
 <!--
 **yujiech00/yujiech00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
