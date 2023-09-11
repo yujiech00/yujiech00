@@ -1,5 +1,5 @@
 ### 💫 About Me:
-<p>👩‍💻I'm currently pursuing my master's degree <b>MSc in Applied Computing (MScAC) - Data Science</b> at the <b>University of Toronto</b>.</p>
+<p>👩‍💻I'm Yujie, and I'm currently pursuing my master's degree <b>MSc in Applied Computing (MScAC) - Data Science</b> at the <b>University of Toronto</b>.</p>
 🥰 I'm passionate about <b>data science</b> driven by the power of data insights to deliver better decision-making for business. Along with that, I am also enthusiastic about <b>developing user-interactive web apps</b> as a tool for providing data visualization as well as results of data analysis and model prediction. <br><br>
 ✨ My skillset ranges from data preparation, cleaning, and visualization, to model building, evaluation, and forecasting, to web development.<br>
 
