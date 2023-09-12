@@ -61,8 +61,8 @@
 
 <div>
   <h3>🔥Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=yujiech00&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&hide_rank=true&show_icons=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yujiech00&theme=city_light&hide_border=false"/><br>
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=yujiech00&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github"/>
+  <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=yujiech00&theme=city_light&hide_border=false"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujiech00&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
@@ -73,6 +73,14 @@
 
 <div>
   <img align="right" src="https://visitcount.itsvg.in/api?id=yujiech00&icon=0&color=12"/>
+</div>
+
+<div>
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=10&center=true&vCenter=true&width=435&lines=Thanks+for+ visiting!%F0%9F%A4%9E" alt="Typing SVG"/>
+    </a>
+  </h1>
 </div>
 
 ---
