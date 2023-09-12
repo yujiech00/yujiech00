@@ -61,9 +61,9 @@
 
 <div>
   <h3>🔥Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=yujiech00&theme=city_light&hide_border=false&include_all_commits=false&count_private=false"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=yujiech00&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&hide_rank=true&show_icons=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yujiech00&theme=city_light&hide_border=false"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujiech00&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujiech00&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 <div>
