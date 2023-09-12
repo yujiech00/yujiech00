@@ -68,8 +68,7 @@
 
 <div>
   <h3>🐾 My Contributions:</h3>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yujiech00/yujiech00/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution grid snake" src="https://github.com/yujiech00/yujiech00/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <div>
