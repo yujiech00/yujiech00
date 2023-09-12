@@ -19,45 +19,49 @@
   <p>✨ My skillset ranges from data preparation, cleaning, and visualization, to model building, evaluation, and forecasting, to web development.</p>
 </div>
 
+<hr/>
+
 <div>
   <h3>✅ Skills and Experiences:</h3>
   <ul>
     <li>
       <b>Programming Languages:</b> 
-      <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="javascript" height="25" align="top"/> 
-      <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white" alt="R" height="25" align="top"/> 
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" height="25" align="top"/> 
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="25" align="top"/>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="javascript" height="22" align="top"/> 
+      <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white" alt="R" height="22" align="top"/> 
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" height="22" align="top"/> 
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="22" align="top"/>
     </li>
   </ul>
   <ul>
     <li>
       <b>Databases:</b>
-      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="25" align="top"/> 
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="Postgres" height="25" align="top"/>
+      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="22" align="top"/> 
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="Postgres" height="22" align="top"/>
     </li>
   </ul>
   <ul>
     <li>
       <b>ML/DS:</b> 
-      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" height="25" align="top"/> 
-      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" height="25" align="top"/> 
-      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="25" align="top"/>
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" height="22" align="top"/> 
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" height="22" align="top"/> 
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="22" align="top"/>
     </li>
   </ul>
 
   <ul>
     <li>
       <b>Web Dev:</b>
-      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" height="25" align="top"/>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="25" align="top"/> 
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML" height="25" align="top"/> 
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" height="25" align="top"/> 
-      <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" height="25" align="top"/> 
-      <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white" alt="Chart.js" height="25" align="top"/>
+      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" height="22" align="top"/>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="22" align="top"/> 
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML" height="22" align="top"/> 
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" height="22" align="top"/> 
+      <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" height="22" align="top"/> 
+      <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white" alt="Chart.js" height="22" align="top"/>
     </li>
   </ul>
 </div>
+
+<hr/>
 
 <div>
   <h3>🔥Stats:</h3>
@@ -65,6 +69,8 @@
   <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=yujiech00&theme=city_light&hide_border=false"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujiech00&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
+
+<hr/>
 
 <div>
   <h3>🐾 My Contributions:</h3>
